@@ -1,3 +1,3 @@
 # inflearn-spring-start
 
->학습 
+>학습중
